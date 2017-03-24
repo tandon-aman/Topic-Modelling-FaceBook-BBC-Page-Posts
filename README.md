@@ -1,0 +1,1 @@
+# I am using LDA topic modelling technique on the BBC FB Page posts with bag-of-words & TFIDF. I scrapped the posts form Facebook using Graph API's and used the data to identify some common words in a particular topic.
